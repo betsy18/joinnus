@@ -1,11 +1,13 @@
 import React from 'react';
 import Logo from './Logo';
+import Navbar from './Navbar';
 import '../../lib/style/header.css';
 
 const Header = () => (
-  <div className="header">
+  <header className="header">
     <Logo/>
-  </div>
+    <Navbar/>
+  </header>
 );
 
 export default Header;
