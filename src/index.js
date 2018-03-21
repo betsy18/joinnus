@@ -1,15 +1,9 @@
-import React from 'react'
-import { render } from 'react-dom'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './lib/components/App';
+import './lib/style/style.css';
 
-const App = () => (
-  <div>
-    <p>
-      Ejemplo webpack, si me vez funciona React
-    </p>
-  </div>
-);
+ReactDOM.render(
+  <App />
+, document.getElementById('root'));
 
-render(
-  <App />,
-  document.getElementById('root')
-);
