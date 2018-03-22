@@ -18,11 +18,10 @@ const Carrousel = () => (
     <div className="carousel-item active">
       <img className="d-block w-100" src="https://s3-us-west-2.amazonaws.com/joinnus.com/banner/14106/5aa6da61cb783.jpg" alt="First slide"/>
     </div>
+    {events.map(event => 
     <div className="carousel-item">
-      {events.map(event => 
-      <img className="d-block w-100" src={event} key={event} alt={event}
-      />)}
-    </div>
+      <img className="d-block w-100" src={event} key={event} alt={event}/>
+    </div>)}
     <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
       <span className="carousel-control-prev-icon" aria-hidden="true"></span>
       <span className="sr-only">Previous</span>
