@@ -15,21 +15,41 @@ body {
   
 }
 
-.escenario{
-  width: 11vw;
-  height: 9vh;
-  outline: 1px solid red;
+.theater{
+  width: 70vw;
+  height: 70vh;
+  outline: 1px solid black;
+  
 }
 
-.circulo{
-  width: 1rem;
-  height: 1rem;
-  border-radius: 2rem;
-  border: 1px solid black;
+.piso{
+  width: 50vw;
+  height: 50vh;
+  outline: 1px solid blue;
+  text-align: center;
+}
+
+.general{
+  width: 30vw;
+  height: 30vh;
+  outline: 1px solid brown;
+  text-align: center;
+}
+
+.butaca{
+  width: 3rem;
+  height: 2rem;
+  /* border-radius: 2rem; */
+  border: 1px solid green;
+  text-align: center;
 }
 
 footer{
   background-color: #000000;
   text-align: center;
   color: #fff;
+}
+
+.margin {
+  margin: 1rem;
 }

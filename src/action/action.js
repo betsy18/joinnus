@@ -2,7 +2,6 @@ export const actionTypes = {
   SELECT_SECTION: 'SELECT_SECTION',
   SELECT_SEAT: 'SELECT_SEAT',
   BUY_TICKET: 'BUY_TICKET'
-
 }
 
 export const selectSection = (piso, section) => ({

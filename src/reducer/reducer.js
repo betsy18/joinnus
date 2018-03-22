@@ -1,50 +1,42 @@
-import { createStore } from 'redux';
-import { Provider } from 'react-redux';
-import App from './App';
+// const DATA = [{
+//     teatroSelect : {
+//       pisos: [ 
+//         {
+//           nombre: 'Piso 1',
+//           secciones: [
+//             {
+//               nombre: 'General',
+//               butacas: [
+//                 [
+//                   'A1', 'A2', 'A3', 'A4'
+//                 ],
+//                 [
+//                   'B1', 'B2', 'B3', 'B4'
+//                 ],
+                
+//                 ['C1', 'C2', 'C3', 'C4']
+//               ],
+//               precio: 35,
+//             }
+//           ]
+//         }
+//       ]
+//     },
+//     pisoSeleccionado : 'false',
+//     seccionSeleccionada : 'false',
+//     butacaSeleccionada : {
+//       fila: 1,
+//       columna: 1
+//     }
+//   }
+// ]
 
-const reducer = (state = {
-    count: 0,
-}, action) => {
-    switch (action.type) {
-        case 'INCREMENT':
-            return { count: state.count + 1 }
-        case 'DECREMENT':
-            return { count: state.count - 1 }
-        default:
-            return state;
-    }
-};
+// const INIT_STATE = {
+//     infoData: DATA
+// }
 
-const store = createStore(reducer);
+// const reducer = (state = INIT_STATE, action) => {
+//    return state;
+// };
 
-ReactDOM.render(
-    <Provider store={store}>
-      <App />
-    </Provider>,
-    document.getElementById('root'),
-);
-
-
-
-
-
-const initialState = {
-  display: 'none'
-};
-
-const reducerCounter = (state = initialState, action)=> {
-
-  switch(action.type){
-    case 'DISPLAY' : 
-    console.log(state.display);
-    return Object.assign({}, state, {
-        display:'block'})
-    default :
-    return state;
-    // console.log('yo');
-  }
-}
-
-const store = createStore(reducerCounter); 
-
-export default store;
+// export default reducer;
