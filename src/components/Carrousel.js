@@ -1,5 +1,6 @@
 import React from 'react'
-import Item from './Item';
+
+const events = ['https://s3-us-west-2.amazonaws.com/joinnus.com/banner/14106/5ab02ef876996.jpg', 'https://s3-us-west-2.amazonaws.com/joinnus.com/banner/14106/5ab1226d40299.jpg', 'https://s3-us-west-2.amazonaws.com/joinnus.com/banner/19132/5aaaa570bca23.jpg', 'https://s3-us-west-2.amazonaws.com/joinnus.com/banner/19132/5aaacd17e8bad.jpg', 'https://s3-us-west-2.amazonaws.com/joinnus.com/banner/19132/5aaaf9e88145a.jpg'];
 
 const Carrousel = () => (
   <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
@@ -17,34 +18,20 @@ const Carrousel = () => (
     <div className="carousel-item active">
       <img className="d-block w-100" src="https://s3-us-west-2.amazonaws.com/joinnus.com/banner/14106/5aa6da61cb783.jpg" alt="First slide"/>
     </div>
-    {/* <Item events={arrayEvents}/> */}
     <div className="carousel-item">
-      <img className="d-block w-100" src="https://s3-us-west-2.amazonaws.com/joinnus.com/banner/14106/5ab026701c2bf.jpg" alt="Second slide"/>
+      {events.map(event => 
+      <img className="d-block w-100" src={event} key={event} alt={event}
+      />)}
     </div>
-    <div className="carousel-item">
-      <img className="d-block w-100" src="https://s3-us-west-2.amazonaws.com/joinnus.com/banner/14106/5ab02ef876996.jpg" alt="Third slide"/>
-    </div>
-    <div className="carousel-item">
-      <img className="d-block w-100" src="https://s3-us-west-2.amazonaws.com/joinnus.com/banner/14106/5ab1226d40299.jpg" alt="Four slide"/>
-    </div>
-    <div className="carousel-item">
-      <img className="d-block w-100" src="https://s3-us-west-2.amazonaws.com/joinnus.com/banner/19132/5aaaa570bca23.jpg" alt="Five slide"/>
-    </div>
-    <div className="carousel-item">
-      <img className="d-block w-100" src="https://s3-us-west-2.amazonaws.com/joinnus.com/banner/19132/5aaacd17e8bad.jpg" alt="Six slide"/>
-    </div>
-    <div className="carousel-item">
-      <img className="d-block w-100" src="https://s3-us-west-2.amazonaws.com/joinnus.com/banner/19132/5aaaf9e88145a.jpg" alt="Seven slide"/>
-    </div>
+    <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span className="sr-only">Previous</span>
+    </a>
+    <a className="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <span className="carousel-control-next-icon" aria-hidden="true"></span>
+      <span className="sr-only">Next</span>
+    </a>
   </div>
-  <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span className="sr-only">Previous</span>
-  </a>
-  <a className="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span className="carousel-control-next-icon" aria-hidden="true"></span>
-    <span className="sr-only">Next</span>
-  </a>
 </div>
 );
 

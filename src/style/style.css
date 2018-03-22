@@ -4,8 +4,32 @@ body {
   box-sizing: border-box;
 }
 
+/* .new{
+  width: 8vw;
+  height: 4vh;
+  text-align: center;
+} */
+
+
 .card{
-  width: 20vw;
-  height: 8vh;
+  
 }
 
+.escenario{
+  width: 11vw;
+  height: 9vh;
+  outline: 1px solid red;
+}
+
+.circulo{
+  width: 1rem;
+  height: 1rem;
+  border-radius: 2rem;
+  border: 1px solid black;
+}
+
+footer{
+  background-color: #000000;
+  text-align: center;
+  color: #fff;
+}
