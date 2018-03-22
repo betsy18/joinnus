@@ -1,9 +1,10 @@
-import React from "react";
-import "../../lib/style/navbar.css";
+import React from 'react';
+import Navitem from './Navitem'
+import '../../lib/style/navbar.css';
 
 const Navbar = () => (
-  <nav class="navbar navbar-joinnus p-2">
-    prueba
+  <nav className="navbar navbar-expand-lg navbar-joinnus p-2 justify-content-between">
+    <Navitem/>
   </nav>
 );
 
