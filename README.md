@@ -26,14 +26,6 @@ considerar que los escenarios pueden tener más de 1 piso.
 - [Ideando](#ideando)
 - [Prototipando](#prototipando)
 - [Probando](#probando)
-
-- [Proceso Research](#proceso-research)
-  - [Cuantitativo](#cuantitativo)
-  - [Cualitativo](#cualitativo)
-- [User Persona](#user-personas)
-- [Features](#características-del-producto)
-- [Prototipo](#prototipo)
-- [Testing](#testing)
 - [Metodología](#metodología)
 - [Herramientas](#testing)
 
@@ -114,13 +106,75 @@ Teniendo la siguiente documentación con respectivas conclusiones:
 
 ## Definiendo
 
-https://drive.google.com/open?id=1tF_Q1vD-COcFqq7fWls3L-0znsMv9WVd9hdiGCymXco
+Luego de la investigación , y de realizar metodologías de síntesis, se tiene las siguientes temas en conclusiones, que abordan la identificación de problemas:
+
+Del lado del Usuario
+- Tiempo
+- Información
+- Clasificación de obras
+- Rápido acceso a la web o aplicación
+- Publicidad amigable del evento
+- Entrada
+- Compra online
+- Selección de asientos numerados
+- Recomendaciones
+- Teatros y sus características particulares
+- Tipos de entradas
+- Zonas
+- Precio de entrada
+- Terminos y condiciones
+
+Del lado del Negocio
+Joinnus :  
+- Venta boletos online
+- Diferenciación de la competencia
+- Brindar información completa de asientos
+- Reducir reclamos
+- Brindar experiencia única al usuario desde el dar a conocer el evento al hasta obtener su recomendación.
+
+Del lado de la viabilidad tecnológica.
+- Entrada vía correo
+- Disponibilidad de la plataforma online y app 24x7
+- Rápida visualización de las imágenes de la web y/o app.
+- Tiempo de confirmación  rápida de entrada por correo.
+
+
+| Tema| Link de documentación |
+| ----      | ----        |
+| **Conclusiones Finales** |https://drive.google.com/open?id=1tF_Q1vD-COcFqq7fWls3L-0znsMv9WVd9hdiGCymXco|
+
 
 ## Ideando
 
-https://drive.google.com/open?id=1FipNus2pR6ZKABW1o99hihi--NgCMa9_4OsiBuRvFUM
+Luego que se han definido los temas centrales del lado del usuario, negocio y y viabilidad tecnologica. 
+Se procede a realizar listas de problemas y propuestas de solución. Siendo las siguientes:
+
+
+
+| Tema| Link de documentación |
+| ----      | ----        |
+| **Conclusiones Finales ** |https://drive.google.com/open?id=1FipNus2pR6ZKABW1o99hihi--NgCMa9_4OsiBuRvFUM|
+
+
 
 ## Prototipando
+En la siguiente vista se puede apreciar el inicio de presentación de un evento de teatro, en este caso de una obra
+didáctica familiar, dirigida al público objetivo potencial. En esta vista se ha querido reunir toda la información
+del evento de una manera ordenada , completa y fácil de navegar, pensando en el usuario.
+
+Asimismo se le brinda los filtros necesarios para que pueda rápidamente saber de las fechas, funciones, tipos y 
+precios de las entradas.
+![1](https://user-images.githubusercontent.com/31896385/38191811-ba8af3ea-362f-11e8-8f8e-197d75345e8c.png)
+
+Luego , de que el usuario decide comprar, un tema importante es la selección de las zonas y ubicaciones de los asientos, 
+para ello se le brinda la posibilidad de seleccionar el mapa de ubicacion, el cual despliega visualmente las zonas diferenciadas 
+por colores, leyenda respectiva y precios. Asimismo al seleccionar una área, está es vista en tamaño aumentado en paralelo a la vista
+global del mapa.
+
+![12](https://user-images.githubusercontent.com/31896385/38191864-fb58bef2-362f-11e8-839a-e8340ccbc2c1.png)
+
+Se puede tener la visualización completa de la demo de prototipo, en el siguiente enlace.
+
 | Herramienta | Descripción |
 | ----      | ----        |
 | **Marvel** |https://marvelapp.com/43ig4bd/screen/40540004 |
