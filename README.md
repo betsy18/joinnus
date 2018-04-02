@@ -71,17 +71,33 @@ de identificar sus necesidades.Para lo cual se realizaron las actividades de:
 
 Y de las cuales se desprende las siguientes conclusiones:
 
-* **De la revisión de data ya existente sobre usuarios:**
+**De la revisión de data ya existenet sobre la situación del teatro en el País:**
 - Sólo 2 horas de la currícula vigente educativa es dedicada a temas de arte en las escuelas en el Perú.
+- En el Perú hay 64 salas de teatro, de las cuales 45 se encuentran en Lima.
+- Él éxito de asistencia de público al teatro depende de: Nro Salas, Alianzas estratégicas, conocer los hábitos
+de consumo, títulos potentes de la obra.
+- De cada 10 obras, 1 es exitosa.
+- El teatro es autosostenible gracias al auspicio y patrocinio del sector privado.
+- Existe mucha oferta y poco público asistente.
+- El teatro comercial tiene más funciones en los teatros ubicados en Miraflores, San Isidro, Barranco, Jesús María, Centro de
+Lima, y Plaza Lima Norte.
+
+
+**De la revisión de data ya existente sobre usuarios:**
 - Los usuarios potenciales a largo plazo serían los niños.
 - Los usuarios potenciales a corto plazo, los sectores populosos de los conos.
-- Los teatros más visitados son los 
+- El perfil del espectador es 33% son adultos, 28% son jóvenes y 39 % son otras edades.
+- El 57% de espectadores tienen un nivel educativo superior.
+- 2 de cada 10 peruanos van al teatro.
+- Las mujeres son las que más compran entradas.
+- No tienen en su agenda ir al teatro.
+- Preferencias por el género comedia sobre los de drama.
+- Prefieren las obras donde publiciten actores conocidos, como los que trabajan en la tv.
+
+**De las entrevistas:**
 
 
-* **De las entrevistas:**
-
-
-* **De las encuestas:**
+**De las encuestas:**
 - Los usuarios por falta de tiempo no van al teatro
 - No están al tanto de la cartelera actual
 - Si van al teatro, prefieren asientos numerados
@@ -149,11 +165,28 @@ Del lado de la viabilidad tecnológica.
 Luego que se han definido los temas centrales del lado del usuario, negocio y y viabilidad tecnologica. 
 Se procede a realizar listas de problemas y propuestas de solución. Siendo las siguientes:
 
+**Lista de Problemas**
+- Falta de conocimiento de las preferencias de los usuarios según perfiles
+- Falta de información centralizada y completa acerca de eventos de teatro
+- Falta de un espacio común de contacto para recomendaciones cercano a todo público (experto, poco experto y nada experto)
+- Falta de publicidad adecuada para dar a conocimiento la cartelera de obras en extreno
+- Falta de información de la experiencia de ir al teatro.
+- Falta información de teatros.
 
+**Lista de Propuestas de solución**
+- Brindarle información sobre el teatro.
+- Brindarle información completa por evento.
+- Canalizar publicidad amigable al usuario.
+- Dar la oportunidad de valorar y recomendar un evento.
+- Spot video publicitario de 1 min y medio de duración con la invitación y fotografías de mejores escenas.
+- Selección de asientos en pocos pasos y sin tener que cambiar de vista, mateniendo la vista global del mapa y el zomm en paralelo.
+- Comprar boletos desde la web ó una app sin necesidad de ir presencialmente para recoger entrada.
+- Que la identificación de usuario merecedor a descuento especial no tenga que ser validada cada vez, si no que
+ya esté guardada , para así en lo sucesivo pueda solo usar el Dni.
 
 | Tema| Link de documentación |
 | ----      | ----        |
-| **Conclusiones Finales ** |https://drive.google.com/open?id=1FipNus2pR6ZKABW1o99hihi--NgCMa9_4OsiBuRvFUM|
+| **Conclusiones Finales** |https://drive.google.com/open?id=1FipNus2pR6ZKABW1o99hihi--NgCMa9_4OsiBuRvFUM|
 
 
 
