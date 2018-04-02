@@ -36,22 +36,22 @@ considerar que los escenarios pueden tener más de 1 piso.
 
 ## Estrategia-de-investigación
 
-- [Estrategia de Investigación](#estrategia-de-investigación)
-Inicialmente nos centraremos en la necesidad, para lo cual estableceremos los siguientes objetivos de investigación:
+Inicialmente nos centraremos en la necesidad, teniendo los siguientes objetivos de investigación:
 
 * **Conocer a usuarios y necesidades**
 * **Conocer el negocio y su contexto**
 * **Conocer la factibilidad Técnica**
 
-Con dichos objetivos esperamos encontrar :
-**Identificar el problema según necesidades*
-**Oportunidades de mejoras**
-**Identificar la necesidad del usuario**
-**Identificar el flujo de la actividad relacionada a la necesidad del usuario**
-**Identificar un producto mínimo viable**
-**Realizar prototipado rápido**
-**Probar prototipo**
-**Iterar prototipo**
+Con dichos objetivos esperamos:
+
+* **Identificar el problema según necesidades*
+* **Oportunidades de mejoras**
+* **Identificar la necesidad del usuario**
+* **Identificar el flujo de la actividad relacionada a la necesidad del usuario**
+* **Identificar un producto mínimo viable**
+* **Realizar prototipado rápido**
+* **Probar prototipo**
+* **Iterar prototipo**
 
 Para lograr estos objetivos y resultados, se elaborará los siguientes documentos:
 
@@ -67,25 +67,24 @@ Para lograr estos objetivos y resultados, se elaborará los siguientes documento
 
 ## Empatizando
 En esta etapa se tiene como objetivo, la observación y la interacción con los usuarios, con la finalidad
-de identificar sus necesidades.Para lo cual se realizaron las actividades de:
+de identificar sus necesidades.Teniendo las siguientes actividades:
 
-- Revisión de data ya existente sobre los usuarios.
+- Revisión de data ya existente.
 - Entrevistas
 - Encuestas
 
 Y de las cuales se desprende las siguientes conclusiones:
 
-**De la revisión de data ya existenet sobre la situación del teatro en el País:**
-- Sólo 2 horas de la currícula vigente educativa es dedicada a temas de arte en las escuelas en el Perú.
-- En el Perú hay 64 salas de teatro, de las cuales 45 se encuentran en Lima.
+**De la revisión de data ya existente sobre la situación del teatro en el País:**
+- En el Peru, sólo el 5% de la currícula vigente es para formación de arte en las escuelas.
+- A nivel nacional hay 64 salas de teatro, de las cuales 45 están en Lima.
 - Él éxito de asistencia de público al teatro depende de: Nro Salas, Alianzas estratégicas, conocer los hábitos
-de consumo, títulos potentes de la obra.
+  de consumo y títulos potentes de la obra.
 - De cada 10 obras, 1 es exitosa.
 - El teatro es autosostenible gracias al auspicio y patrocinio del sector privado.
 - Existe mucha oferta y poco público asistente.
 - El teatro comercial tiene más funciones en los teatros ubicados en Miraflores, San Isidro, Barranco, Jesús María, Centro de
 Lima, y Plaza Lima Norte.
-
 
 **De la revisión de data ya existente sobre usuarios:**
 - Los usuarios potenciales a largo plazo serían los niños.
@@ -102,15 +101,15 @@ Lima, y Plaza Lima Norte.
 
 
 **De las encuestas:**
-- Los usuarios por falta de tiempo no van al teatro
-- No están al tanto de la cartelera actual
-- Si van al teatro, prefieren asientos numerados
-- La mayoría de usuarios prefiere comprar boletos através de internet
-- La mayoría de usuarios iría al teatro por gusto propio ó por recomendación de obras.
-- Los usuarios en su mayoría no tienen frecuencia fija de ir al teatro.
-- La mayoría de usuarios tuvo una buena experiencia al asistir al teatro
-- Lo que tienen de referencia de los teatros son los temas de : nombre, ubicación de referencia, fachada, eventos y redes sociales; y por los actores.
-- Los usuarios indican que la publicidad es un aspecto importante para que ellos decidan ir al teatro.
+- Los usuarios por falta de tiempo no van al teatro.
+- No conocen la cartelera actual.
+- Si van al teatro, prefieren asientos numerados.
+- Preferencia por comprar boletos através de internet
+- Irían al teatro por que es de su preferencia y/ó por recomendación de obras.
+- No tienen frecuencia fija de ir al teatro.
+- Tuvieron una buena experiencia al asistir al teatro
+- Las referencias del teatro: el nombre, la ubicación de referencia, fachada, eventos y redes sociales; y por los actores.
+- La publicidad es un aspecto importante para su decisión de ir al teatro.
 - Tienen preferencia de asientos por ubicación platea de 1er piso.
 - Si tuvieran que ir al teatro, previamente les gustaría saber sobre los asientos y zonas
 - El 100 % de los usuarios indicó que iría acompañado al teatro.
@@ -188,6 +187,13 @@ Se procede a realizar listas de problemas y propuestas de solución. Siendo las 
 - Que la identificación de usuario merecedor a descuento especial no tenga que ser validada cada vez, si no que
 ya esté guardada , para así en lo sucesivo pueda solo usar el Dni.
 
+
+**Identificación de Producto Mínimo Viable**
+
+*El producto mínimo viable, contendrá las siguientes mínimas características:
+-
+
+
 | Tema| Link de documentación |
 | ----      | ----        |
 | **Conclusiones Finales** |https://drive.google.com/open?id=1FipNus2pR6ZKABW1o99hihi--NgCMa9_4OsiBuRvFUM|
@@ -195,22 +201,29 @@ ya esté guardada , para así en lo sucesivo pueda solo usar el Dni.
 
 
 ## Prototipando
-En la siguiente vista se puede apreciar el inicio de presentación de un evento de teatro, en este caso de una obra
-didáctica familiar, dirigida al público objetivo potencial. En esta vista se ha querido reunir toda la información
-del evento de una manera ordenada , completa y fácil de navegar, pensando en el usuario.
 
-Asimismo se le brinda los filtros necesarios para que pueda rápidamente saber de las fechas, funciones, tipos y 
+*En la siguiente vista se puede apreciar el inicio de presentación de un evento de teatro, en este caso de una obra
+didáctica familiar, dirigida al público objetivo potencial. 
+
+*En esta vista se ha querido reunir toda la información del evento de una manera ordenada , completa y fácil de navegar,
+pensando en el usuario.
+
+*Asimismo se le brinda los filtros necesarios para que pueda rápidamente saber de las fechas, funciones, tipos y 
 precios de las entradas.
+
 ![1](https://user-images.githubusercontent.com/31896385/38191811-ba8af3ea-362f-11e8-8f8e-197d75345e8c.png)
 
-Luego , de que el usuario decide comprar, un tema importante es la selección de las zonas y ubicaciones de los asientos, 
-para ello se le brinda la posibilidad de seleccionar el mapa de ubicacion, el cual despliega visualmente las zonas diferenciadas 
-por colores, leyenda respectiva y precios. Asimismo al seleccionar una área, está es vista en tamaño aumentado en paralelo a la vista
+*Luego , de que el usuario decide comprar, un tema importante es la selección de las zonas y ubicaciones de los asientos.
+
+*Para ello se le brinda la posibilidad de seleccionar el mapa de ubicacion, el cual despliega visualmente las zonas diferenciadas 
+por colores, leyenda respectiva y precios. 
+
+*Asimismo al seleccionar una área, está es vista en tamaño aumentado en paralelo a la vista
 global del mapa.
 
 ![12](https://user-images.githubusercontent.com/31896385/38191864-fb58bef2-362f-11e8-839a-e8340ccbc2c1.png)
 
-Se puede tener la visualización completa de la demo de prototipo, en el siguiente enlace.
+*Se puede tener la visualización completa de la demo de prototipo, en el siguiente enlace.
 
 | Herramienta | Descripción |
 | ----      | ----        |
