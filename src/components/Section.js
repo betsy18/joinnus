@@ -1,10 +1,6 @@
 import React from 'react'
 import '../style/style.css'
 
-// const data = {
-//   titulo: ['E']
-//   arraySection: ['https://s3-us-west-2.amazonaws.com/joinnus.com/user/119517/5a80151f9c9a4.jpg', 'https://s3-us-west-2.amazonaws.com/joinnus.com/user/145113/5aa6def422d37.jpg', 'https://s3-us-west-2.amazonaws.com/joinnus.com/user/14106/5aa703a7e50b3.jpg', 'https://s3-us-west-2.amazonaws.com/joinnus.com/user/13217/5a90b876563c0.jpg'];
-// }
 const arraySection = ['https://s3-us-west-2.amazonaws.com/joinnus.com/user/119517/5a80151f9c9a4.jpg', 'https://s3-us-west-2.amazonaws.com/joinnus.com/user/145113/5aa6def422d37.jpg', 'https://s3-us-west-2.amazonaws.com/joinnus.com/user/14106/5aa703a7e50b3.jpg', 'https://dank4krgp28m3.cloudfront.net/user/14106/5a33093426239.jpg'];
 
 

@@ -1,39 +1,6 @@
 import React from 'react'
 import '../style/style.css'
 
-const data = [{
-  teatroSelect : {
-    pisos: [ 
-      {
-        nombre: 'Piso 1',
-        secciones: [
-          {
-            nombre: 'General',
-            butacas: [
-              [
-                'A1', 'A2', 'A3', 'A4'
-              ],
-              [
-                'B1', 'B2', 'B3', 'B4'
-              ],
-              
-              ['C1', 'C2', 'C3', 'C4']
-            ],
-            precio: 35,
-          }
-        ]
-      }
-    ]
-  },
-  pisoSeleccionado : 'false',
-  seccionSeleccionada : 'false',
-  butacaSeleccionada : {
-    fila: 1,
-    columna: 1
-  }
-}
-]
-
   const Theater = () => (
     // creando el div de teatro
     <div>

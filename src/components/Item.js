@@ -4,11 +4,6 @@ import Section from './Section';
 
 
 const Item = () => (
-  // <div className="carousel-item">
-  //   {events.map(event => 
-  //     <img className="d-block w-100" src={event} key={event} alt={event}
-  //     />)}
-  // </div>
   <div className="mx-auto">
     <section className="text-center">
   <div className="container-fluid">
@@ -24,8 +19,6 @@ const Item = () => (
           </div>
         </div>
         </div>
-      {/* </div> */}
-      {/* <div className="row"> */}
         <div className="col-xs-12 col-sm-6 col-md-6">
         <div className="card">
             <img className="card-img-top" src="https://s3-us-west-2.amazonaws.com/joinnus.com/user/119517/5a80151f9c9a4.jpg" alt="Card image cap"/>
@@ -36,8 +29,6 @@ const Item = () => (
           </div>
         </div>
         </div>
-      {/* </div> */}
-      {/* <div className="row"> */}
         <div className="col-xs-12 col-sm-6 col-md-6">
         <div className="card">
             <img className="card-img-top" src="https://s3-us-west-2.amazonaws.com/joinnus.com/user/119517/5a80151f9c9a4.jpg" alt="Card image cap"/>
@@ -48,8 +39,6 @@ const Item = () => (
           </div>
         </div>
         </div>
-      {/* </div> */}
-      {/* <div className="row"> */}
         <div className="col-xs-12 col-sm-6 col-md-6">
         <div className="card">
             <img className="card-img-top" src="https://s3-us-west-2.amazonaws.com/joinnus.com/user/119517/5a80151f9c9a4.jpg" alt="Card image cap"/>
@@ -60,12 +49,10 @@ const Item = () => (
           </div>
         </div>
         </div>
-      {/* </div> */}
       </div>
   </div>
   </section>
   </div>
-  
 );
 
 
