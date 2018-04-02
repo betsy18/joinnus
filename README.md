@@ -19,6 +19,10 @@ considerar que los escenarios pueden tener más de 1 piso.
 ![image](https://user-images.githubusercontent.com/19315632/37801190-9ae9e9b8-2df3-11e8-8bb9-a879d16713de.png)
 
 
+## Presentación
+
+![lamejorexperiencia-teatro](https://user-images.githubusercontent.com/31896385/38197119-586c04e8-364c-11e8-86de-ec9e4a1b683b.jpg)
+
 ##🚩 Tabla de contenido
 - [Estrategia de Investigación](#estrategia-de-investigación)
 - [Empatizando](#empatizando)
