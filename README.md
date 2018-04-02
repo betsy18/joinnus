@@ -38,13 +38,13 @@ considerar que los escenarios pueden tener más de 1 piso.
 
 Inicialmente nos centraremos en la necesidad, teniendo los siguientes objetivos de investigación:
 
-* **Conocer a usuarios y necesidades**
+* **Conocer a usuarios y necesidades*
 * **Conocer el negocio y su contexto**
 * **Conocer la factibilidad Técnica**
 
 Con dichos objetivos esperamos:
 
-* **Identificar el problema según necesidades*
+*Identificar el problema según necesidades*
 * **Oportunidades de mejoras**
 * **Identificar la necesidad del usuario**
 * **Identificar el flujo de la actividad relacionada a la necesidad del usuario**
