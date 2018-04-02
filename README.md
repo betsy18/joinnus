@@ -23,7 +23,7 @@ considerar que los escenarios pueden tener más de 1 piso.
 
 ![lamejorexperiencia-teatro](https://user-images.githubusercontent.com/31896385/38197119-586c04e8-364c-11e8-86de-ec9e4a1b683b.jpg)
 
-##🚩 Tabla de contenido
+🚩 Tabla de contenido
 - [Estrategia de Investigación](#estrategia-de-investigación)
 - [Empatizando](#empatizando)
 - [Definiendo](#definiendo)
@@ -39,9 +39,9 @@ considerar que los escenarios pueden tener más de 1 piso.
 - [Estrategia de Investigación](#estrategia-de-investigación)
 Inicialmente nos centraremos en la necesidad, para lo cual estableceremos los siguientes objetivos de investigación:
 
-**Conocer a usuarios y necesidades**
-**Conocer el negocio y su contexto**
-**Conocer la factibilidad Técnica**
+* **Conocer a usuarios y necesidades**
+* **Conocer el negocio y su contexto**
+* **Conocer la factibilidad Técnica**
 
 Con dichos objetivos esperamos encontrar :
 **Identificar el problema según necesidades*
