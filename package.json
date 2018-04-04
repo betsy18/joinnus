@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betsy18/joinnus.git"
+  },
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.dev.js",
     "build": "webpack --config webpack.config.prod.js --progress --profile --colors",
@@ -35,5 +38,9 @@
     "react-dom": "^0.14.3",
     "react-redux": "4.3.0",
     "redux": "^3.0.4"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/betsy18/joinnus/issues"
+  },
+  "homepage": "https://github.com/betsy18/joinnus#readme"
 }
