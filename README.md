@@ -186,9 +186,32 @@ Se procede a realizar listas de problemas y propuestas de solución. Siendo las 
 * **Que la identificación de usuario con descuento especial sea validada sólo una vez.*
 
 
-**Identificación de Producto Mínimo Viable**
+**Identificación de Producto Mínimo Viable PMV**
 
-*El producto mínimo viable, contendrá las siguientes mínimas características:*
+Para la identificación del PMV, se ha tomó en cuenta lo siguiente:
+
+* Eventos de obras teatrales con asientos numerados.
+* Mejorar la experiencia de compra, desde la información, selección de asiento y capturar la calificación del evento.
+* Requerimientos de Joinnus para el reto.
+
+**El producto mínimo viable, contendrá las siguientes mínimas características:**
+
+Por lo que se tiene las siguientes características:
+
+| Tipo| Característica |
+| ----      | ----        |
+| Adicional   | Información guía del evento de teatro , categorizado con tags : fotografías, obra, reparto, spot y calificación|
+| Mejora  |Filtros iniciales para el evento : fechas , zonas y funciones disponibles. |
+| Requisito |Botón "ver mapa |
+| Requisito |Vista global del mapa con áreas de colores y leyenda |
+| Requisito |Abrir vista según la área del mapa seleccionada |
+| Requisito |Visualización de asientos según forma de área y con leyenda de según disponibilidad |
+| Requisito |Asientos seleccionables según disponibilidad y con color diferenciado|
+| Requisito |Visualización de información de tipo de entrada ( niño, adulto mayor, etc) |
+| Adicional |Panel paralelo visual con la lista de entradas que se van agregando a la compra con su respectivo precio 
+y con la posibilidad de poder eliminar en cualquier momento|
+| Requisito |Posibilidad de regresar a la vista general del mapa para escoger asientos en otra área|
+
 
 | Tema| Link de documentación |
 | ----      | ----        |
