@@ -30,8 +30,22 @@ import '../style/style.css'
         </div>     
       </div>
     </div> )}
+    {/* svg- prueba */}
+    <circle cx="25" cy="25" r="20"
+        fill="rgba(128, 0, 128, 0.75)" 
+        stroke="rgba(0, 255, 0, 0.25)" stroke-width="10"/>
+    <circle cx="65" cy="25" r="20"
+        fill="rgba(128, 0, 128, 0.75)" 
+        stroke="rgba(0, 255, 0, 0.25)" stroke-width="10"
+        opacity="0.5"/>
+    <circle cx="105" cy="25" r="20"
+        fill="rgba(128, 0, 128, 0.75)" 
+        stroke="rgba(0, 255, 0, 0.25)" stroke-width="10"
+        opacity="0.2"/>
     </div>
     
   );
+
+
 
   export default Theater;
