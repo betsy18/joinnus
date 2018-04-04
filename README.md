@@ -221,7 +221,7 @@ global del mapa.*
 | Herramienta | Descripción |Descripción |
 | ----      | ----        |----        |
 | **Marvel** |Versión 1 - Destokp |https://marvelapp.com/43ig4bd/screen/40540004 |
-| **Marvel** |Versión 1.1 - Destokp |https://marvelapp.com/project/2871638/ |
+| **Marvel** |Versión 1.1 - Destokp |https://marvelapp.com/3331e55|
 
 ## Testeando
 
