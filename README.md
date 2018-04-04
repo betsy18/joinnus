@@ -218,9 +218,10 @@ global del mapa.*
 
 *Se puede tener la visualización completa de la demo de prototipo, en el siguiente enlace.*
 
-| Herramienta | Descripción |
-| ----      | ----        |
-| **Marvel** |https://marvelapp.com/43ig4bd/screen/40540004 |
+| Herramienta | Descripción |Descripción |
+| ----      | ----        |----        |
+| **Marvel** |Versión 1 - Destokp |https://marvelapp.com/43ig4bd/screen/40540004 |
+| **Marvel** |Versión 1.1 - Destokp |https://marvelapp.com/project/2871638/ |
 
 ## Testeando
 
